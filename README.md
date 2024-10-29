@@ -1,5 +1,5 @@
 # e-com-new
-Building a e-commerce website from scratch backend and frontend
+Building a e-commerce website from scratch- frontend
 
 # Getting Started with Create React App
 
